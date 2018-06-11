@@ -1,0 +1,125 @@
+/*login */
+.login{
+    background-color: #9032c8;
+    height: 100%;
+}
+
+.button {
+    background-color: #f223c6;
+    color: #FFF;
+    font-weight: 700; 
+    
+}
+
+.logo {
+    max-width: 100%;
+    margin: 25px;
+    display: flex;
+}
+
+
+h2{
+    font-family: 'Roboto',Arial, Helvetica, sans-serif;
+    font-size: 1.2em;
+    color: #FFF;
+    margin: 20px;
+}
+
+.form {
+    margin: 15px auto;
+}
+
+form span {
+    font-family: 'Roboto',Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    color: #bf99d6;
+    display: flex;
+}
+
+.registro  {
+    font-family: 'Roboto',Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    color: #fff;
+    display: flex;
+}
+
+form a:hover {
+    color: #ffbb40;
+    text-decoration: none;
+    
+}
+
+.container {
+    max-width: 600px;
+}
+
+/* welcome*/
+
+h1{
+    font-family: 'Roboto',Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    display: flex;
+}
+
+.welcome {
+    background-color: #f2f2f2;
+    min-height: 1000px;
+    margin: 0 auto;
+    
+}
+
+
+
+.servconfirmado, .servdisponible {   
+    background-color: #9032c8;
+    color: #fff;
+    font-family: 'Roboto',Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+
+.servdisponible {   
+    background-color: #f223c6;
+    
+}
+
+.servconfirmado  a:hover {   
+    background-color: #842ab8;
+}
+
+.servdisponible a:hover {   
+    background-color: #be219c;
+}
+
+/* confirmados */
+
+.detalle {
+    background-color: #9032c8;
+    font-family: 'Roboto',Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    color: #fff;
+}
+
+ button a:hover {
+    color: #fff;
+
+}
+
+nav img {
+    max-width: 8%;
+    height: auto;
+    margin: 15px;
+    display: flex;
+    
+}
+
+
+.tags{
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #bbbbbb;
+}
+
+.card {
+    margin-top: 30px;
+}
+
